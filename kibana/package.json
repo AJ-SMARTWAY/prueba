@@ -1,0 +1,11 @@
+{
+  "name": "kibana_sample_visualization",
+  "version": "0.1.2",
+  "description": "Enables objects in arrays to be configured with a field formatter.",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/istresearch/kibana-object-format",
+  "main": "index.js",
+  "kibana": {
+    "version": "6.2.2"
+  }
+}
